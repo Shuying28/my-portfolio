@@ -65,6 +65,9 @@ const NavLink = styled.a`
 const SocialMediaIcons = styled.div`
   display: flex;
   margin-top: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 `;
 const SocialMediaIcon = styled.div`
   display: flex;
