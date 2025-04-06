@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.58a0c615.css",
+    "main.js": "/my-portfolio/static/js/main.2b96f970.js",
+    "static/media/ShuYing.jpg": "/my-portfolio/static/media/ShuYing.11c075b87217f9a211ef.jpg",
+    "static/media/unite.jpg": "/my-portfolio/static/media/unite.a30835b18cdf55ce1c16.jpg",
+    "static/media/angular-map-application.jpg": "/my-portfolio/static/media/angular-map-application.8c579a6e64e78fe5e284.jpg",
+    "static/media/bloom-in-motion.jpg": "/my-portfolio/static/media/bloom-in-motion.6afcdc2763e581e8929f.jpg",
+    "static/media/holland-food.jpg": "/my-portfolio/static/media/holland-food.c1097ea39b27999490c9.jpg",
+    "static/media/infino-gaming.jpg": "/my-portfolio/static/media/infino-gaming.345c897ec767cc9574f9.jpg",
+    "static/media/coway.jpg": "/my-portfolio/static/media/coway.9b3471519c7c56723642.jpg",
+    "static/media/contact.jpg": "/my-portfolio/static/media/contact.931b0d6be92aad7717fc.jpg",
+    "static/media/infino.jpg": "/my-portfolio/static/media/infino.d29d0f2a68b666f5507f.jpg",
+    "static/media/booking-luu.jpg": "/my-portfolio/static/media/booking-luu.6551270f067331c77a5f.jpg",
+    "static/media/vhack.jpg": "/my-portfolio/static/media/vhack.19a812f0311ab0bc1560.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.58a0c615.css.map": "/my-portfolio/static/css/main.58a0c615.css.map",
+    "main.2b96f970.js.map": "/my-portfolio/static/js/main.2b96f970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.2b96f970.js"
+  ]
+}
