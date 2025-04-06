@@ -297,7 +297,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Infino Gaming - Present",
+    title: "Infino Gaming",
     date: "March 2025",
     image: "infino-gaming.jpg",
     description:
@@ -323,15 +323,15 @@ export const projects = [
     date: "Jan 2025 - Feb 2025",
     image: "contact.jpg",
     description:
-      "A simple contact management system built with Laravel, InertiaJS, Vue, and Vite. Utilized Vuetify for UI components and MySQL for database management. Implemented CRUD operations for managing contacts and integrated authentication features.",
-    tags: ["Laravel", "InertiaJS", "Vue", "Vite", "Vuetify", "MySQL"],
+      "A simple contact management system built with Laravel, Inertia.js, Vue, and Vite. Utilized Vuetify for UI components and MySQL for database management. Implemented CRUD operations for managing contacts and integrated authentication features.",
+    tags: ["Laravel", "Inertia.js", "Vue", "Vite", "Vuetify", "MySQL"],
     category: "web app",
     github: "https://github.com/Shuying28/laravel-todo-app",
     webapp: "https://laravel-inertia-vuetify.fly.dev/",
   },
   {
     id: 4,
-    title: "Unite Mobile & Web Application",
+    title: "Unite Mobile & Web App",
     date: "May 2024 - Jan 2025",
     image: "unite.jpg",
     description:
@@ -349,7 +349,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Simple Angular Map Web Application",
+    title: "Simple Angular Map Web App",
     date: "Feb 2025",
     description:
       "Developed an Angular application with a map interface to handle user-defined points, radius visualization, and automatic distance calculations(Haversine Formula). Integrated with Leaflet mapping library.",
@@ -360,10 +360,10 @@ export const projects = [
   },
   {
     id: 6,
-    title: "XMUM Ticket Booking Application",
+    title: "XMUM Ticket Booking App",
     date: "Sept 2024 - Oct 2024",
     description:
-      "Collaborated with DanceClub of Xiamian University Malaysia to develop a ticket booking application for their annual concert. Utilized React for web development and Firebase for backend services.",
+      "Collaborated with DanceClub of Xiamen University Malaysia to develop a ticket booking application for their annual concert. Utilized React for web development and Firebase for backend services.",
     image: "bloom-in-motion.jpg",
     tags: ["React", "Typescript", "Firebase"],
     category: "web app",
@@ -372,7 +372,7 @@ export const projects = [
   },
   {
     id: 7,
-    title: "Holland Food Web Application",
+    title: "Holland Food Web App",
     date: "May 2023 - Jul 2023",
     description:
       "Developed a responsive restaurant reservation website using HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, and MySQL. Designed the GUI of the application using Figma.",
@@ -392,7 +392,7 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Booking Luu Mobile Application",
+    title: "Booking Luu Mobile App",
     date: "Nov 2022 - Jan 2023",
     description:
       "Developed a restaurant reservation mobile application using Android Studio with Java, XML, and Firebase. Integrated email notifications confirming reservation acceptance by the administrator and utilized the Google Map API to display the restaurant's location.",
@@ -403,7 +403,7 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Vivere Mobile Application",
+    title: "Vivere Mobile Prototype",
     date: "Mar 2022 - Apr 2022",
     description:
       "Champion in International Level Varsity Hackathon 2022. Researched suicide-related issues and analyzed existing depression apps to identify shortcomings. Designed a unique prototype using Figma with highlighted features targeting suicide prevention and provided future recommendations for app improvement and expansion.",
